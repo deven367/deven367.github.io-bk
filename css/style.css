@@ -22,10 +22,18 @@
 .intro {
   color: white;
 }
-
+.subheading{
+  color: white;
+}
+h1{
+  color: white;
+}
+.rotate{
+  color: white;
+}
 body {
   background-image: url("../media/doctorstrange_bg.jpg");
-  /* background-color: #040E27; */
+  background-color: #040E27;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
