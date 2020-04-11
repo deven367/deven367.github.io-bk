@@ -1,0 +1,32 @@
+@media (min-width: 1200px){
+  .cont-nav {
+    max-width: 1500px !important;
+  }
+}
+
+.nav-main {
+  min-height: 50px;
+  background-color: #040E27 !important;
+}
+
+.each-li {
+  padding-right: 25px;
+}
+
+.nav-font {
+  font-family: 'Ropa Sans', sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.intro {
+  color: white;
+}
+
+body {
+  background-image: url("../media/doctorstrange_bg.jpg");
+  /* background-color: #040E27; */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
