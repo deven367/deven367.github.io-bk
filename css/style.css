@@ -23,10 +23,13 @@
   color: white;
 }
 .subheading{
-  /* color: white; */
-  color: #007bff;
+  color: white;
+  /* color: #007bff; */
   text-transform: uppercase;
   letter-spacing: 0.2em;
+}
+.rotate-init {
+  color: white;
 }
 .dev-name {
   text-transform: uppercase;
