@@ -23,7 +23,13 @@
   color: white;
 }
 .subheading{
-  color: white;
+  /* color: white; */
+  color: #007bff;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+.dev-name {
+  text-transform: uppercase;
 }
 h1{
   color: white;
@@ -37,4 +43,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+
+.typewrite-font {
+  /* color:#fff; text-decoration: none; */
 }
