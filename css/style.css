@@ -49,5 +49,6 @@ body {
 }
 
 .typewrite-font {
-  /* color:#fff; text-decoration: none; */
+  color: white; 
+  text-decoration: none;
 }
