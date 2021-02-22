@@ -48,7 +48,7 @@ body {
   background-size: cover;
 }
 
-.typewrite-font {
-  color: white; 
+.typewrite, .typewrite-font {
+  color: white;
   text-decoration: none;
 }
